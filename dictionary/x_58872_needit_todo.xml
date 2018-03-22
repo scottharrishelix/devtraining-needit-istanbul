@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="ToDo" max_length="40" name="x_58872_needit_todo" type="collection">
+        <element label="Due" max_length="40" name="due" type="glide_date_time"/>
+        <element label="Project Name" max_length="60" name="project_name" type="string"/>
+    </element>
+</database>
